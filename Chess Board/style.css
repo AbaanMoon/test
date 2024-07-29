@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: 100vh;
+    background-color: grey;
+  }
+  table {
+    border-collapse: collapse;
+    width: 480px; /* 60px * 8 */
+    height: 480px; /* 60px * 8 */ 
+  }
+  td {
+    width: 60px;
+    height: 60px;
+  }
+  .black {
+    background-color: black;
+  }
+  .white {
+    background-color: white;
+  }
